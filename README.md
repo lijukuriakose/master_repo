@@ -1,2 +1,1 @@
-# resource_repo
-
+Adding new content to readme file 
